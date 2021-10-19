@@ -1,0 +1,24 @@
+{
+  "name": "api-premier-league",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagolCarvalho/api-premier-league.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagolCarvalho/api-premier-league/issues"
+  },
+  "homepage": "https://github.com/ThiagolCarvalho/api-premier-league#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1"
+  }
+}
