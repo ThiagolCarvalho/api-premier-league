@@ -2,7 +2,8 @@
 
 # Introduction
 
-This api will list all matches from Premier League 2019/2020
+This api will list all matches from Premier League 2019/2020 from github json file from the url: 
+https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/en.1.json
 
 # Node Version Used
 
