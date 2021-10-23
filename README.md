@@ -1,17 +1,16 @@
-# Marvel
+# Premier League API
 
-# Introdução
+# Introduction
 
-Essa webpage tem a função de listar e encontrar personagens, revistas, e sagas da Marvel!
+This api will list all matches from Premier League 2019/2020 from github json file from the url: 
+https://raw.githubusercontent.com/openfootball/football.json/master/2019-20/en.1.json
 
-# Versões utilizadas
+# Node Version Used
 
-Versão angular: v12.2.7.
+Node version: v14.18.1
 
-Versão do Node utilizado: v14.17.6
+# Instructions
 
-# Instruções para execução
+First run "npm install", after you can run this project using "node api/index.js" command.
 
-Na raíz do projeto existe um arquivo chamado secret.ts, insira sua chave pública e privada nesse arquivo.
-
-Após isso, executar o comando "npm install" e em seguida "ng serve".
+To check the front-end that uses this api use this url: https://github.com/ThiagolCarvalho/premier-league-calendar
